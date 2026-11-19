@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E066947-5441-4C9B-80B4-A4210FD24BC1}|Ciclista\\Ciclista.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\ciclista\\ciclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E066947-5441-4C9B-80B4-A4210FD24BC1}|Ciclista\\Ciclista.csproj|solutionrelative:ciclista\\ciclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E066947-5441-4C9B-80B4-A4210FD24BC1}|Ciclista\\Ciclista.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\programa\u00E7\u00E3o orientada a objetos\\exerc\u00EDcios feitos em aula\\ciclista\\etapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E066947-5441-4C9B-80B4-A4210FD24BC1}|Ciclista\\Ciclista.csproj|solutionrelative:ciclista\\etapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E066947-5441-4C9B-80B4-A4210FD24BC1}|Ciclista\\Ciclista.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\ciclista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E066947-5441-4C9B-80B4-A4210FD24BC1}|Ciclista\\Ciclista.csproj|solutionrelative:ciclista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Etapa.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\Ciclista\\Etapa.cs",
+              "RelativeDocumentMoniker": "Ciclista\\Etapa.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\Ciclista\\Etapa.cs",
+              "RelativeToolTip": "Ciclista\\Etapa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:31:06.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ciclista.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\Ciclista\\Ciclista.cs",
+              "RelativeDocumentMoniker": "Ciclista\\Ciclista.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\Ciclista\\Ciclista.cs",
+              "RelativeToolTip": "Ciclista\\Ciclista.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:30:23.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\Ciclista\\Program.cs",
+              "RelativeDocumentMoniker": "Ciclista\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Programa\u00E7\u00E3o Orientada a Objetos\\Exerc\u00EDcios Feitos em Aula\\Ciclista\\Program.cs",
+              "RelativeToolTip": "Ciclista\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:29:52.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
