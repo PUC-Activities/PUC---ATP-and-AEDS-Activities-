@@ -16,7 +16,7 @@ namespace TestandoHash
             ultimo = primeiro;
         }
 
-        public Tamanho()
+        /*public Tamanho()
         {
             for
         }
@@ -67,6 +67,6 @@ namespace TestandoHash
             {
                 if(i.Elemento)
             }
-        }
+        }*/
     }
 }
